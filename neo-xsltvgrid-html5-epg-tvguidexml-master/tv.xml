@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+	<channel id="Antena3.TV">
+		<display-name>Antena3.TV</display-name>
+	</channel>
+	<programme channel="Antena3.TV" start="20240116051500 +0000" stop="20240116075500 +0000">
+		<title>Las noticias de la mañana</title>
+		<desc>Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez, junto a Marina Monzón y Noor Ben Yessef, conducen este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758281"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240116140000 +0000" stop="20240116143000 +0000">
+		<title>Antena 3 Noticias 1</title>
+		<desc>Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758302"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240116143000 +0000" stop="20240116143500 +0000">
+		<title>Deportes 1</title>
+		<desc>Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">15</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105271"/>
+		<url>https://www.antena3.com/noticias/deportes/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240116143500 +0000" stop="20240116144500 +0000">
+		<title>Tu tiempo con Roberto Brasero</title>
+		<desc>Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">10</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P997438"/>
+		<url>https://www.antena3.com/noticias/el-tiempo/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240116200000 +0000" stop="20240116203000 +0000">
+		<title>Antena 3 Noticias 2</title>
+		<desc>Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758329"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240116203000 +0000" stop="20240116203500 +0000">
+		<title>Deportes 2</title>
+		<desc>Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">15</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105272"/>
+		<url>https://www.antena3.com/noticias/deportes/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240116203500 +0000" stop="20240116204500 +0000">
+		<title>La previsión de las 9</title>
+		<desc>Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
+		<date>25/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">10</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105306"/>
+		<url>https://www.antena3.com/noticias/el-tiempo/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117051500 +0000" stop="20240117075500 +0000">
+		<title>Las noticias de la mañana</title>
+		<desc>Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez, junto a Marina Monzón y Noor Ben Yessef, conducen este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758281"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117140000 +0000" stop="20240117143000 +0000">
+		<title>Antena 3 Noticias 1</title>
+		<desc>Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758302"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117143000 +0000" stop="20240117143500 +0000">
+		<title>Deportes 1</title>
+		<desc>Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">15</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105271"/>
+		<url>https://www.antena3.com/noticias/deportes/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117143500 +0000" stop="20240117144500 +0000">
+		<title>Tu tiempo con Roberto Brasero</title>
+		<desc>Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">10</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P997438"/>
+		<url>https://www.antena3.com/noticias/el-tiempo/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117200000 +0000" stop="20240117203000 +0000">
+		<title>Antena 3 Noticias 2</title>
+		<desc>Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758329"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117203000 +0000" stop="20240117203500 +0000">
+		<title>Deportes 2</title>
+		<desc>Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">15</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105272"/>
+		<url>https://www.antena3.com/noticias/deportes/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240117203500 +0000" stop="20240117204500 +0000">
+		<title>La previsión de las 9</title>
+		<desc>Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
+		<date>26/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">10</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105306"/>
+		<url>https://www.antena3.com/noticias/el-tiempo/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118051500 +0000" stop="20240118075500 +0000">
+		<title>Las noticias de la mañana</title>
+		<desc>Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez, junto a Marina Monzón y Noor Ben Yessef, conducen este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758281"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118140000 +0000" stop="20240118143000 +0000">
+		<title>Antena 3 Noticias 1</title>
+		<desc>Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758302"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118143000 +0000" stop="20240118143500 +0000">
+		<title>Deportes 1</title>
+		<desc>Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">15</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105271"/>
+		<url>https://www.antena3.com/noticias/deportes/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118143500 +0000" stop="20240118144500 +0000">
+		<title>Tu tiempo con Roberto Brasero</title>
+		<desc>Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">10</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P997438"/>
+		<url>https://www.antena3.com/noticias/el-tiempo/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118200000 +0000" stop="20240118203000 +0000">
+		<title>Antena 3 Noticias 2</title>
+		<desc>Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">30</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758329"/>
+		<url>https://www.antena3.com/noticias/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118203000 +0000" stop="20240118203500 +0000">
+		<title>Deportes 2</title>
+		<desc>Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">15</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105272"/>
+		<url>https://www.antena3.com/noticias/deportes/</url>
+		<country>España</country>
+		
+	</programme>
+	<programme channel="Antena3.TV" start="20240118203500 +0000" stop="20240118204500 +0000">
+		<title>La previsión de las 9</title>
+		<desc>Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
+		<date>27/02/2024</date>
+		<category>Informativo</category>
+		<language>Español</language>
+		<length units="minutes">10</length>
+		<icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105306"/>
+		<url>https://www.antena3.com/noticias/el-tiempo/</url>
+		<country>España</country>
+		
+	</programme>
+</tv>
